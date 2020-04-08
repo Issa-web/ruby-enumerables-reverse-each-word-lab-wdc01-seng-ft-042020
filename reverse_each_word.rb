@@ -1,7 +1,8 @@
 def reverse_each_word(string)
  
 sting_to_array = string.split
-d.collect do |i|
+sting_to_array.collect do |i|
+  
 i.reverse
 
 end
