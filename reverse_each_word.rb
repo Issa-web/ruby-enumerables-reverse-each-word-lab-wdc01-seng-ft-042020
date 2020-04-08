@@ -9,3 +9,8 @@ counter+=1
 end 
 reverse_word
 end
+
+d = string.split
+d.collect do |i|
+i.reverse
+end
